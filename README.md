@@ -31,7 +31,7 @@ additional storage.
 
 ## Repository Contents
 
-- `report/database-project.pdf` — original university submission
+- `Progetto Basi di Dati Guanti Filippo.pdf` — original university submission
 - `sql/schema.sql` — SQL schema extracted from the original report
 - `sql/sample-data.sql` — sample population statements extracted from the report
 
